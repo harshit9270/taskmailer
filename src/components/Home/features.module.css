@@ -1,0 +1,32 @@
+.bigBoxType1{
+    display: flex;
+    margin: 120px;
+    justify-content: center;
+    align-items: center;
+}
+
+.bigBoxType2{
+    display: flex;
+    margin: 120px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.profileImgType1{
+    width: 100%;
+}
+
+.profileImgType2{
+    width: 100%;
+}
+
+.smallBoxType1{
+    width: 30%;
+    margin-right: 100px;
+}
+
+.smallBoxType2{
+    width: 30%;
+    margin-left: 100px;
+}
